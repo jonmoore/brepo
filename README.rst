@@ -9,7 +9,8 @@ bproj
         :target: https://pypi.python.org/pypi/brepo
 
 
-Python Boilerplate contains all the boilerplate you need to create a Python package.
+Python Boilerplate contains all the boilerplate you need to create a
+Python package.
 
 * Free software: BSD license
 * Documentation: https://brepo.readthedocs.org.
