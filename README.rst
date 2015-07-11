@@ -4,7 +4,7 @@ bproj
 
 .. image:: https://readthedocs.org/projects/brepo/badge/?version=latest
            :target: https://readthedocs.org/projects/brepo/?badge=latest
-           :alt: Documentation status
+           :alt: Documentation Status
 
 .. image:: https://img.shields.io/travis/jonmoore/brepo.svg
            :target: https://travis-ci.org/jonmoore/brepo
