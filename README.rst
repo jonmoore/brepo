@@ -2,10 +2,17 @@
 bproj
 ===============================
 
+.. image:: https://readthedocs.org/projects/brepo/badge/?version=latest
+           :target: https://readthedocs.org/projects/brepo/?badge=latest
+           :alt: Documentation status
+
 .. image:: https://img.shields.io/travis/jonmoore/brepo.svg
            :target: https://travis-ci.org/jonmoore/brepo
-.. image:: https://coveralls.io/repos/jonmoore/brepo/badge.svg?branch=master&service=github 
+           :alt: Build status
+
+.. image:: https://img.shields.io/coveralls/jonmoore/brepo.svg
            :target: https://coveralls.io/github/jonmoore/brepo?branch=master
+           :alt: Test coverage
 
 Python Boilerplate contains all the boilerplate you need to create a
 Python package.
